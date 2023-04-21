@@ -20,7 +20,7 @@ The Python script can be found in the file `merge.py`.
 1. Move all the PDFs, DOCs, PPTs to the current directory
 2. If the files are numbered 1-,2-,3-.. etc, enter 'y'when prompted to rename the files, else enter 'n'
 3. The files needs to be renamed lexicographically to maintain the order
-4. un the program
+4. Run the program
 
 Run the script by executing the following command in the terminal:
 
